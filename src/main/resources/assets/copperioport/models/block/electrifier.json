@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "copperioport:blocks/electrifierside",
+    "up": "copperioport:blocks/electrifierside",
+    "north": "copperioport:blocks/electrifier_front",
+    "east": "copperioport:blocks/electrifierside",
+    "south": "copperioport:blocks/electrifierside",
+    "west": "copperioport:blocks/electrifierside",
+    "particle": "copperioport:blocks/electrifierside"
+  }
+}

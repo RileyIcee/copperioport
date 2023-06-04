@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "copperioport:blocks/electricprocessbot",
+    "up": "copperioport:blocks/electricprocesstop",
+    "north": "copperioport:blocks/elecprocessorside",
+    "east": "copperioport:blocks/elecprocessorside",
+    "south": "copperioport:blocks/elecprocessorside",
+    "west": "copperioport:blocks/elecprocessorside",
+    "particle": "copperioport:blocks/electricprocessbot"
+  }
+}

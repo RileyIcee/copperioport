@@ -1,0 +1,42 @@
+{
+  "group": "copperioport",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperioport:rawcopper"
+    },
+    "1": {
+      "item": "copperioport:rawcopper"
+    },
+    "2": {
+      "item": "copperioport:rawcopper"
+    },
+    "3": {
+      "item": "copperioport:rawcopper"
+    },
+    "4": {
+      "item": "copperioport:rawcopper"
+    },
+    "5": {
+      "item": "copperioport:rawcopper"
+    },
+    "6": {
+      "item": "copperioport:rawcopper"
+    },
+    "7": {
+      "item": "copperioport:rawcopper"
+    },
+    "8": {
+      "item": "copperioport:rawcopper"
+    }
+  },
+  "result": {
+    "item": "copperioport:blockofrawcopper",
+    "count": 1
+  }
+}

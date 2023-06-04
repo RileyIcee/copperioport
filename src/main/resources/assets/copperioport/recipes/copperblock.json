@@ -1,0 +1,42 @@
+{
+  "group": "copperioport",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperioport:copperingot"
+    },
+    "1": {
+      "item": "copperioport:copperingot"
+    },
+    "2": {
+      "item": "copperioport:copperingot"
+    },
+    "3": {
+      "item": "copperioport:copperingot"
+    },
+    "4": {
+      "item": "copperioport:copperingot"
+    },
+    "5": {
+      "item": "copperioport:copperingot"
+    },
+    "6": {
+      "item": "copperioport:copperingot"
+    },
+    "7": {
+      "item": "copperioport:copperingot"
+    },
+    "8": {
+      "item": "copperioport:copperingot"
+    }
+  },
+  "result": {
+    "item": "copperioport:blockofcopper",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "copperioport",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperioport:blockofcopper"
+    }
+  ],
+  "result": {
+    "item": "copperioport:electrifiedcopper",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "copperioport",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "copperioport:copperingot"
+    },
+    "1": {
+      "item": "copperioport:copperingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "copperioport:copperingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperioport:copperaxe",
+    "count": 1
+  }
+}

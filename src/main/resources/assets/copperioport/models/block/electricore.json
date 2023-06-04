@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "copperioport:blocks/electric_ore",
+    "up": "copperioport:blocks/electric_ore",
+    "north": "copperioport:blocks/electric_ore",
+    "east": "copperioport:blocks/electric_ore",
+    "south": "copperioport:blocks/electric_ore",
+    "west": "copperioport:blocks/electric_ore",
+    "particle": "copperioport:blocks/electric_ore"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "copperioport",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperioport:blockofcopper"
+    },
+    "1": {
+      "item": "copperioport:blockofcopper"
+    },
+    "2": {
+      "item": "copperioport:blockofcopper"
+    },
+    "3": {
+      "item": "copperioport:processedelectricity"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "copperioport:processedelectricity"
+    },
+    "6": {
+      "item": "copperioport:blockofcopper"
+    },
+    "7": {
+      "item": "copperioport:blockofcopper"
+    },
+    "8": {
+      "item": "copperioport:blockofcopper"
+    }
+  },
+  "result": {
+    "item": "copperioport:electrifier",
+    "count": 1
+  }
+}

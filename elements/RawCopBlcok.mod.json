@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      },
+      {
+        "value": "CUSTOM:RawCopper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockOfRawCopper"
+    },
+    "name": "rawcopblcok",
+    "namespace": "mod"
+  }
+}
